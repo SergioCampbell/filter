@@ -26,6 +26,9 @@ encouraged to reach out with any questions that you come across.
 
 ## Available Scripts
 
+### `Live Demo`
+[Full demo here](https://sergiocampbell.github.io/filter/)
+
 In the project directory, you can run:
 
 ### `npm start`
